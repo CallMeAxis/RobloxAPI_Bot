@@ -1,13 +1,6 @@
 # RobloxAPI_Bot
 
-██████╗░░█████╗░██████╗░██╗░░░░░░█████╗░██╗░░██╗░█████╗░██████╗░██╗██████╗░░█████╗░████████╗
-██╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗╚██╗██╔╝██╔══██╗██╔══██╗██║██╔══██╗██╔══██╗╚══██╔══╝
-██████╔╝██║░░██║██████╦╝██║░░░░░██║░░██║░╚███╔╝░███████║██████╔╝██║██████╦╝██║░░██║░░░██║░░░
-██╔══██╗██║░░██║██╔══██╗██║░░░░░██║░░██║░██╔██╗░██╔══██║██╔═══╝░██║██╔══██╗██║░░██║░░░██║░░░
-██║░░██║╚█████╔╝██████╦╝███████╗╚█████╔╝██╔╝╚██╗██║░░██║██║░░░░░██║██████╦╝╚█████╔╝░░░██║░░░
-╚═╝░░╚═╝░╚════╝░╚═════╝░╚══════╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░░╚════╝░░░░╚═╝░░░
-
-Introducing a pen-source Discord bot that uses ro.py, hikari, and lightbulb, designed to access the Roblox API to fetch information you need.
+Introducing a open-source Discord bot that uses ro.py, hikari, and lightbulb, designed to access the Roblox API to fetch information you need.
 
 Open sourced and coded by CallMeAxis.
 
